@@ -15,10 +15,8 @@
 
 ## Funktioner
 
-- gemme data i et billede ved LSB
-- Ekstrahere data fra billeder med gemt data
-- cryptere data før den gemmes
-- decryptere den ekstraheret data
+- gemme og ekstrahere data i billeder ved LSB
+- cryptere og decryptere data før det gemmes i billedet
 
 <!--
 ## Screenshots
@@ -39,11 +37,10 @@ pip install -r requirements.txt
 
 ## Roadmap
 
-- [ ] LSB integration
-- [ ] LSB ekstrahering
+- [ ] LSB funktionalitet
 - [ ] cryptering
-- [ ] decryptering
-- [ ] Tilføj GUI
+- [ ] simpel GUI
+- [ ] fancy GUI
 
 
 ## Forfatter
