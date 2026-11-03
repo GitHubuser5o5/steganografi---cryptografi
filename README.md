@@ -20,11 +20,12 @@
 - cryptere data før den gemmes
 - decryptere den ekstraheret data
 
+<!--
 ## Screenshots
 
-<!-- Læg et billede i en mappe, fx /docs, og link til det: -->
+ Læg et billede i en mappe, fx /docs, og link til det: 
 ![Screenshot(placeholder)](docs/screenshot.png)
-
+-->
 ## Installation
 
 ```bash
@@ -44,10 +45,6 @@ pip install -r requirements.txt
 - [ ] decryptering
 - [ ] Tilføj GUI
 
-
-## Licens
-
-Distribueret under MIT-licensen. Se `LICENSE` for mere info.
 
 ## Forfatter
 
