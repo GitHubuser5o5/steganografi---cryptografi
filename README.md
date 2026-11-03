@@ -9,8 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-I%20udvikling-orange)
 
-[Funktioner](#-funktioner) • [Installation](#-installation) • [Roadmap](#-Roadmap)
-
 </div>
 
 ---
@@ -25,7 +23,7 @@
 ## Screenshots
 
 <!-- Læg et billede i en mappe, fx /docs, og link til det: -->
-![Screenshot](docs/screenshot.png)
+![Screenshot(placeholder)](docs/screenshot.png)
 
 ## Installation
 
