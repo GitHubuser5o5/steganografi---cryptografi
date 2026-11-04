@@ -27,11 +27,9 @@
 ## Installation
 
 ```bash
-# Klon repoet
 git clone https://github.com/GitHubuser5o5/steganografi---cryptografi.git
 cd "steganografi-&-cryptografi"
 
-# Installer afhængigheder
 pip install -r requirements.txt
 ```
 
