@@ -3,7 +3,8 @@
 
 # P1
 
-**et program til at skjule og ekstrahere data i billedere, via stenografi og cryptering.**
+**BLABLA BLA
+et program til at skjule og ekstrahere data i billedere, via stenografi og cryptering.**
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
